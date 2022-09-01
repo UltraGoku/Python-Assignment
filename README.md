@@ -1,5 +1,5 @@
 # Python-Assignment
-# *List functions
+# List functions
 # String functions
 # Dictionary function
 # Star Pattern using loops
